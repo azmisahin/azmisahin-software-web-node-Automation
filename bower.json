@@ -1,0 +1,16 @@
+{
+  "name": "NodeTest",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "Azmi ŞAHİN <bilgi(at)azmisahin.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "www/lib",
+    "test"
+  ]
+}
